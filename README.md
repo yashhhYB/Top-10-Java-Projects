@@ -141,7 +141,7 @@ An **IoT-powered wildlife detection system** for tracking and identifying animal
 
 🛠 **Tech Stack:** Java (Android), IoT, Firebase, Machine Learning, Data Analytics
 
-📂 **[Source Code](#)**
+
 
 ---
 
