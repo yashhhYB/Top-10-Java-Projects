@@ -74,7 +74,7 @@ An **AI-powered chatbot** using NLP and machine learning for **dynamic conversat
 
 🛠 **Tech Stack:** Java, NLP, MySQL, Assistant API
 
-📂 **[Source Code](#)**
+
 
 ---
 
