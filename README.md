@@ -19,7 +19,7 @@ This project features **email-based user registration** and **JWT authentication
 
 🛠 **Tech Stack:** Java, Spring Boot, REST APIs, MongoDB/MySQL, JWT Authentication
 
-📂 **[Source Code](#)**
+
 
 ---
 
