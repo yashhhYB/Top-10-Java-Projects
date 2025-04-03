@@ -87,7 +87,7 @@ A simple yet powerful app that provides real-time **weather predictions** using 
 
 🛠 **Tech Stack:** Java, Yahoo Weather API, SLF4J API, YQL
 
-📂 **[Source Code](#)**
+
 
 ---
 
@@ -101,7 +101,7 @@ A cryptocurrency tracking and trading system for investors to **manage digital a
 
 🛠 **Tech Stack:** Java, Maven, GSON
 
-📂 **[Source Code](#)**
+
 
 ---
 
