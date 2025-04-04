@@ -171,6 +171,7 @@ Skills Attained: JSP/Servlets for web application development, session managemen
 
 ### 3. Personal Finance Management App
 
+
 Description: Create an application to help users manage their personal finances, track expenses, set budgets, and generate financial reports. The app will offer features for categorizing transactions and visualizing spending patterns.
 Steps:
 Feature Planning: Define features such as expense tracking, budget setting, and report generation.
@@ -181,7 +182,7 @@ Budgeting Tools: Develop features for setting and monitoring budgets.
 Visualization: Create charts and graphs to visualize financial data.
 Testing: Test the application for usability, accuracy, and data security.
 Skills Attained: Java Swing/JavaFX for GUI development, SQL for database management, financial algorithms, and data visualization.
----
+
 
 ## 💡 Why Work on These Projects?
 ✔️ Gain hands-on experience in **Java development**
