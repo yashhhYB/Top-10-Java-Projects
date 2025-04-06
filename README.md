@@ -181,7 +181,7 @@ Expense Management: Implement functionality for categorizing and tracking expens
 Budgeting Tools: Develop features for setting and monitoring budgets.
 Visualization: Create charts and graphs to visualize financial data.
 Testing: Test the application for usability, accuracy, and data security.
-Skills Attained: Java Swing/JavaFX for GUI development, SQL for database management, financial algorithms, and data visualization.
+Skills Attained: Java Swing/JavaFX for GUI development, SQL for database management, financial algorithms, and data visualization
 
 
 ## 💡 Why Work on These Projects?
